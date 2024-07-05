@@ -1,3 +1,22 @@
+{% comment %}
+//top level stuff
+{% endcomment %}
+
 theme: jekyll-theme-minimal
 title: CyanCat8991's homepage!
 description: Bookmark this to keep an eye on my project updates!
+
+{% comment %}
+//stuff I was told to add here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
+{% endcomment %}
+
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
