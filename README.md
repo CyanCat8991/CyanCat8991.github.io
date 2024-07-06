@@ -11,6 +11,7 @@ Phonetic translation of Russian
 
 US inflation currency convertor
 
+text to binary converter
 
 
 
